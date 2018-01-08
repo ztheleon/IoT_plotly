@@ -9,13 +9,12 @@ Una de las aplicaciones con más desarrollo en el entorno de node.js es el contr
 Diseñar y desarrollar una aplicación básica IoT que nos sirva de base para estudiar su arquitectura en general.
 Requerimientos:
 
-•	Sensor de temperatura y humedad DHT11
-•	Arduino Mega
-•	Node v8.6.0
-•	Arduino IDE 1.8.4
-•	Plotly node module versión 1.0.6
-•	SerialPort node module versión 6.0.4
-
+*	Sensor de temperatura y humedad DHT11
+*	Arduino Mega 2560
+*	Node v8.6.0
+*	Arduino IDE 1.8.4
+*	Plotly node module versión 1.0.6
+*	SerialPort node module versión 6.0.4
 
 **Arquitectura:** 
 
