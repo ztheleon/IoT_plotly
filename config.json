@@ -1,0 +1,5 @@
+{
+  "plotly_username" : "username",
+  "plotly_api_key" : "Api_key",
+  "plotly_tokens" : ["token_1", "token_2"]
+}
