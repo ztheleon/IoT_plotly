@@ -4,6 +4,8 @@
 
 Una de las aplicaciones con más desarrollo en el entorno de node.js es el control de hardware a través de la web (browser o aplicación móvil). Para iniciar nuestra práctica en este interesante tema, vamos a desarrollar la siguiente aplicación que manejará un sensor de temperatura - humedad de la serie HTC11 (desde un Arduino Mega), cuyos datos serán gestionados y transferidos por un servidor basado en node.js. El usuario, a través de una plataforma de visualización de datos en la nube, podrá hacer seguimiento a la medición de temperatura y humedad del sensor en tiempo real, la cual puede ser usada por varios dispositivos simultáneamente.
 
+![Una imagen cualquiera](http://dummyimage.com/150 "De 150 x 150 píxeles")
+
 # Objetivo.
 
 Diseñar y desarrollar una aplicación básica IoT que nos sirva de base para estudiar su arquitectura en general.
@@ -18,5 +20,6 @@ Requerimientos:
 
 **Arquitectura:** 
 
+![Una imagen cualquiera](http://dummyimage.com/150 "De 150 x 150 píxeles")
  
 Usaremos node.js como la plataforma para nuestra etapa de recolección los datos desde el arduino. Node.js es una plataforma de desarrollo de software construido sobre Chrome’s V8 JavaScript engine. Node.js utiliza un paradigma orientado a eventos, usando un modelo de entradas y salidas (I/O) no – bloqueante y asíncrono. Estas características lo hacen eficiente y ligero a la hora de diseñar aplicaciones en tiempo real.
