@@ -20,6 +20,6 @@ Requerimientos:
 
 **Arquitectura:** 
 
-![Una imagen cualquiera](/Images/Project 1.png)
+![Una imagen cualquiera](/Images/Project_1.png)
  
 Usaremos node.js como la plataforma para nuestra etapa de recolección los datos desde el arduino. Node.js es una plataforma de desarrollo de software construido sobre Chrome’s V8 JavaScript engine. Node.js utiliza un paradigma orientado a eventos, usando un modelo de entradas y salidas (I/O) no – bloqueante y asíncrono. Estas características lo hacen eficiente y ligero a la hora de diseñar aplicaciones en tiempo real.
