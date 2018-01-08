@@ -29,5 +29,5 @@ Usaremos node.js como la plataforma para nuestra etapa de recolección los datos
 ![Una imagen cualquiera](/Images/Plotly_H&T.png)
 
 ## Información y detalles
-Para mayor información sobre la implementación de este proyecto, por favor remitirse al documento **DHT11_Node_documentation
+Para mayor información sobre la implementación de este proyecto, por favor remitirse al documento **DHT11_Node_documentation**
 
